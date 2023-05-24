@@ -4,8 +4,6 @@
 1. Fork this repository.
 1. Clone your repo to your local machine.
 1. Open your cloned repository in Visual Studio.
-1. Answer the following questions
-1. Commit and push your answers
 
 ## Questions (10 Points Possible)
 
