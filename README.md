@@ -35,7 +35,7 @@ SELECT age FROM AVERAGE(patients);
 ```
 5. How would you describe the difference between a `LEFT JOIN` and an `INNER JOIN`
  
-## Exercise
+## Exercise (10 Points Possible)
 
 Follow these steps to setup the assessment:
 1. Create a new database named `flight_db` using pgAdmin.
