@@ -2,8 +2,7 @@
 
 ## Setup
 1. Fork this repository.
-1. Clone your repo to your local machine.
-1. Open your cloned repository in Visual Studio.
+1. You can either work on your clone in GitHub, or open your clone in visual studio.
 
 ## Questions (10 Points Possible)
 
@@ -42,17 +41,19 @@ Follow these steps to setup the assessment:
 > `SELECT * FROM airlines;`
 > `SELECT * FROM flights;`
 
+** If you need help setting up the database, reach out to an instructor! **
+
 Please provide the QUERY (not the answer) that returns each of the following:
 1. The flight numbers for all delayed flights (i.e. not on time).
-1. The count of delayed flights.
-1. The sum of prices for all flights arriving to Raleigh-Durham (`RDU`).
-1. The average price for all flights in the database.
-1. The average price for all flights arriving to Raleigh-Durham.
-1. The departure city and number of flights departing from each city.
-1. The count of airlines in the database.
-1. The count of flights in the database.
-1. The flight number, departure city, arrival city, price, and airline name of each flight. Do not return the airline ID number.
-1. The airline name, flight number, and price of each flight on the Delta airline. (Assume that you do not know the ID number of the Delta airline. In a larger database, you would be expected to memorize ID numbers).
+2. The count of delayed flights.
+3. The sum of prices for all flights arriving to Raleigh-Durham (`RDU`).
+4. The average price for all flights in the database.
+5. The average price for all flights arriving to Raleigh-Durham.
+6. The departure city and number of flights departing from each city.
+7. The count of airlines in the database.
+8. The count of flights in the database.
+9. The flight number, departure city, arrival city, price, and airline name of each flight. Do not return the airline ID number.
+10. The airline name, flight number, and price of each flight on the Delta airline. (Assume that you do not know the ID number of the Delta airline. In a larger database, you would be expected to memorize ID numbers).
 
 ## Submission
 
