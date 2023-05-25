@@ -6,7 +6,7 @@
 
 ## Questions (10 Points Possible)
 
-<img width="282" alt="erd_for_assessment" src="https://github.com/modelmapper/modelmapper/assets/11747682/60bebb3c-9faa-4f3e-ae0a-7df7dde06784">
+<img alt="erd_for_assessment" src="https://github.com/modelmapper/modelmapper/assets/11747682/60bebb3c-9faa-4f3e-ae0a-7df7dde06784">
 
 [Citation for ERD](https://circle.visual-paradigm.com/hospital/)
 1. Use the Doctors Office ERD above to answer the following questions:
