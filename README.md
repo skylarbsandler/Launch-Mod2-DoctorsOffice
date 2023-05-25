@@ -15,7 +15,7 @@
     1. How many doctors can each patient have?
         Each patient can have one doctor.
     1. How would you describe the relationship between patients and tests? Be sure to use either one-to-one, one-to-many, or many-to-many in your answer.
-        This would be considered a one-to-many relationship because each patient belongs to one doctor and one doctor can have many patients.
+        This would be considered a one-to-many relationship because each test belongs to one patient and one patient can have many tests.
     1. What are the foreign keys in this diagram?
         The foreign keys in this diagram at the doctor_id and the patient_id.
     1. What is the primary key for the Tests table.
